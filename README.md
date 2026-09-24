@@ -1,5 +1,11 @@
-# Lab-09-Router-on-a-Stick
+
 # Cisco Router-on-a-Stick — Inter-VLAN Routing
+
+![Cisco](https://img.shields.io/badge/Cisco-IOS-blue)
+![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-orange)
+![Networking](https://img.shields.io/badge/Topic-Router-green)
+![Level](https://img.shields.io/badge/Level-Intermediate-red)
+
 
 A Cisco Packet Tracer lab demonstrating **Inter-VLAN Routing using the Router-on-a-Stick method**.
 
